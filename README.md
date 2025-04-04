@@ -1,1 +1,1 @@
-# -Building-Local-RAG-Applications-with-LangChain
+# Building-Local-RAG-Applications-with-LangChain
